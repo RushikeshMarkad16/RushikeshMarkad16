@@ -1,5 +1,5 @@
- Hi there, I'm Rushikesh Markad 👋
-# I'm an Undergraduate student currently pursuing Bachelor's Degree in Computer Engineering from Pimpri Chinchwad College of Engineering(PCCOE). I'm interested in Technology which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include Swimming, listening music and watching Web Series.
+# Hi there, I'm Rushikesh Markad 👋
+### I'm an Undergraduate student currently pursuing Bachelor's Degree in Computer Engineering from Pimpri Chinchwad College of Engineering(PCCOE). I'm interested in Technology which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include Swimming, listening music and watching Web Series.
 <!--
 **RushikeshMarkad16/RushikeshMarkad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

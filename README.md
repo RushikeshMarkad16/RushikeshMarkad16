@@ -51,4 +51,4 @@ I'm an Undergraduate student currently pursuing Bachelor's Degree in Computer En
 
 [linkedin]: https://www.linkedin.com/in/rushikesh-markad-a98204191/
 [github]: https://github.com/RushikeshMarkad16
-[instagram]: stagram.com/rushi.markad16/
+[instagram]: istagram.com/rushi.markad16/

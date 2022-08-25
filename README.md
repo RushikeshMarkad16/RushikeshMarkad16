@@ -43,6 +43,10 @@ I'm an Undergraduate student currently pursuing Bachelor's Degree in Computer En
     <!-- python -->
 
     <img align="center" width="55px" src="https://camo.githubusercontent.com/0eda27ee2de8b8c942807220a64c665f7044f88f552f9f844079678d1b3db68d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f707974686f6e2e706e67"/>
+    
+    <img align="center" width="55px" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>
+    <!-- Golang -->
 
 -   Tools
     <!-- github -->

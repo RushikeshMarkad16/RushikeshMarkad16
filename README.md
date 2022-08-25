@@ -51,6 +51,10 @@ I'm an Undergraduate student currently pursuing Bachelor's Degree in Computer En
 -   Tools
     <!-- github -->
     <img align="center" width="55px" src="https://camo.githubusercontent.com/09ec1c12aff93964dc91ad7753fe5bad3381ccc0f9ab1ff0038618c978ab2a9e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f36352f3030303030302f6769746875622e706e67"/>
+    
+    <!-- vs code -->
+    <img align="center" width="55px" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
    
 
 [linkedin]: https://www.linkedin.com/in/rushikesh-markad-a98204191/
